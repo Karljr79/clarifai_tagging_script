@@ -1,7 +1,7 @@
 {
-  "name": "box-node-photo-tagger",
-  "version": "0.0.0",
-  "description": "A simple server for managing Box App Users",
+  "name": "box-clarifai-photo-tagger",
+  "version": "0.5.0",
+  "description": "A simple script for using Clarifai to tag images in Box",
   "main": "main.js",
   "repository": "",
   "author": "Karl Hirschhorn <karl@box.com>",
