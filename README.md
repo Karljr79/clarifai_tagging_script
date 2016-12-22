@@ -1,4 +1,4 @@
-# Photo Tagger Example Server
+# CLarifai/Box Image Tagging Script
 
 To get started:
 
