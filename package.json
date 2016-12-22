@@ -1,0 +1,13 @@
+{
+  "name": "box-node-photo-tagger",
+  "version": "0.0.0",
+  "description": "A simple server for managing Box App Users",
+  "main": "main.js",
+  "repository": "",
+  "author": "Karl Hirschhorn <karl@box.com>",
+  "dependencies": {
+    "box-node-sdk": "*",
+    "clarifai": "*",
+    "bottleneck": "*"
+  }
+}
